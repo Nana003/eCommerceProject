@@ -1,0 +1,50 @@
+.card {
+	display:inline-block;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+.center-image{	
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center{	
+  text-align: center;
+}
+
+.center-flex {
+display: flex;
+justify-content: center;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.profile-picture{
+	width: 300px; 
+	float: left;
+}
+
+.btn-border{
+	border: 2px solid gray;
+	padding: 5px;
+	margin: 5px;
+	width: 150px;
+}
+
+.width-select{
+	width: 150px;
+}
+
+.width-form{
+	width: 400px;
+	margin: 5px;
+}
+
+.margin-5px{
+	margin: 5px;
+}
